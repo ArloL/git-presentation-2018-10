@@ -126,6 +126,14 @@
 ## Einstellungen
 
 *   Was sind gute Defaults?
+    *   user.name=Arlo O'Keeffe
+    *   user.email=mailtoarlo@gmail.com
+    *   core.excludesfile=~/.gitignore_global
+    *   color.ui=true
+    *   push.default=simple
+    *   rebase.autostash=true
+    *   pull.ff=only
+    *   pull.rebase=true
 *   Was ist autostash?
 *   Was ist eine globale .gitignore?
 *   Was sind aliase?
