@@ -32,13 +32,8 @@
 *   [git-flow](https://nvie.com/posts/a-successful-git-branching-model/)
 *   [GitHub Flow](https://guides.github.com/introduction/flow/)
 
-## Definitionen
+## Begriffe
 
-*   Was ist ein Graph?
-*   Was ist ein gerichteter Graph?
-*   Was ist ein azyklischer Graph?
-*   Was ist Erreichbarkeit?
-*   Was ist ein Baum?
 *   Was ist eine untracked Datei?
 *   Was ist eine Änderung?
 *   Was ist die "Stage"?
