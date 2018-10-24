@@ -75,6 +75,7 @@
 *   Wie commite ich meine Änderungen?
     *   Was macht `commit`?
     *   Was macht `commit -m`?
+*   Wie stage und commite ich eine Änderung?
     *   Was macht `commit -am`?
 *   Wie erstelle ich einen Branch?
     *   Was macht `branch`?
