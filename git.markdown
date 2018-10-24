@@ -80,7 +80,7 @@
     *   Was macht `branch`?
 *   Wie lösche ich einen Branch?
     *   Was macht `branch -d`?
-*   Wie wechsle ich den aktuellen Branch?
+*   Wie wechsel ich den aktuellen Branch?
     *   Was macht `checkout`?
 *   Wie sehe ich den Unterschied zwischen zwei Branches?
     *   Was macht `diff`?
@@ -116,23 +116,11 @@
 *   Wie finde ich raus wann der Fehler eingeführt wurde?
     *   Was macht `bisect`?
 *   Wie füge ich unter Windows ein Executable Flag hinzu?
-*   Was macht `gc`?
-
-## Repository Management
-
-*   Was will man alles in einem Repository haben?
-*   Was gehört in eine .gitignore?
-*   Wie ignoriere ich einen ganzen Ordner?
-*   Wie de-ignoriere ich bestimmte Dateien in einem ignorierten Ordner?
-*   Wie füge ich trotz .gitignore eine Datei hinzu?
-*   Was gehört in eine gitattributes?
-*   Wie sorge ich dafür, dass in jedem Betriebssystem die Datei CRLF Line
-    Endings hat?
-
-## Graph Management
-
-*   Was ist der Unterschied zwischen Merge und Rebase?
-*   Wie funktioniert ein interactive rebase?
+    *   Was macht `update-index --chmod=+x`
+*   Wie entferne ich nicht erreichbare Commits?
+    *   Was macht `gc`?
+*   Wie finde ich nicht erreichbare Commits?
+    *   Was macht `reflog`?
 
 ## Einstellungen
 
@@ -141,38 +129,26 @@
 *   Was ist eine globale .gitignore?
 *   Was sind aliase?
 
-## Kollaboration
+## Alltag
 
-*   Was ist Social Coding?
-*   Wie arbeitet man mit mehreren Leuten zusammen?
-*   Welche Workflows gibt es?
-    *   Was ist git-flow?
-*   Wie hoste ich ein Remote Repository?
-    *   GitLab
-    *   GitBucket
-    *   GitHub
-    *   BitBucket
-*   Wie clone ich ein Remote Repository?
-*   Was ist das Line Ending Problem?
-*   Wie ist das mit unterschiedlichen OS?
-    *   autocrlf
-*   Was ist ein protected Branch?
-*   Was ist ein force Push?
-
-## Automatisierung
-
-*   Was muss man beachten?
-*   Welche Tools gibt es?
-
-## Integration
-
-*   Was sind FIX commit messages?
+*   Welche Clients gibt es?
+    *   git (git bash unter Windows)
+    *   SourceTree
+    *   Visual Studio Code
+    *   Eclipse
+    *   Tower
+    *   IntelliJ
+    *   SublimeMerge
+    *   TortoiseGit
 
 ## Prinzipien / Konventionen
 
+*   Was ist "commit early, commit often"?
+*   Was ist "published History"?
 *   Warum will man eine Versionskontrolle?
 *   Ist git benutzerfreundlich?
 *   Ist git die beste Versionskontrolle?
+*   Ist git besser als svn?
 *   Was sind übliche Konventionen?
     *   Commit Messages
     *   lowercase Branch-Namen
@@ -183,19 +159,76 @@
     *   Unter unserer Kontrolle wann remote
     *   Schnell+Unabhängig (weil kein Netzwerk notwendig)
 *   Was ist ein Event-Sourced-System?
-*   Warum ist git besser als svn?
 *   Was ist der Unterschied zwischen porcelain und plumbing?
 *   Wie oft soll ich commiten?
 *   Wie oft soll ich pushen?
 *   Kann ich ein Git Repository zippen?
 
-## Alltag
+## Repository Management
 
-*   Welche Clients gibt es?
-    *   git (git bash unter Windows)
-    *   Eclipse
-    *   SourceTree
-    *   Tower
-    *   Visual Studio Code
-    *   IntelliJ
-    *   TortoiseGit
+*   Was will man alles in einem Repository haben?
+    *   diff-baren Quellcode. Also keine "erzeugten" Dateien.
+*   Was gehört in eine .gitignore?
+    *   https://www.gitignore.io/
+*   Wie ignoriere ich einen ganzen Ordner?
+    *   `/.settings/`
+*   Wie de-ignoriere ich bestimmte Dateien in einem ignorierten Ordner?
+    *   `!/.settings/user.setup`
+*   Wie füge ich trotz .gitignore eine Datei hinzu?
+    *   `git add --force`
+*   Was gehört in eine gitattributes?
+*   Wie sorge ich dafür, dass in jedem Betriebssystem die Datei CRLF Line
+    Endings hat?
+
+## Branch Management
+
+*   Wie soll man Branches nennen?
+
+## Tag Management
+
+*   Wie soll man Tags nennen?
+
+## History Management
+
+*   Was ist der Unterschied zwischen Merge und Rebase?
+*   Wie funktioniert ein interactive rebase?
+
+## Kollaboration
+
+*   Was ist Social Coding?
+*   Wie arbeitet man mit mehreren Leuten zusammen?
+*   Welche Fragen muss man beantworten können?
+    *   Welcher Workflow wird eingesetzt? Beantwortet vllt. andere Fragen schon
+    *   Wer darf ins Haupt-Repository pushen?
+    *   Wie sieht der Prozess aus zwischen finalem Commit und Release zum
+        End-User (a.k.a. Deploy)?
+    *   Sind Notfall-Patches notwendig?
+    *   Wie werden Referenzen benannt?
+    *   Müssen alte Releases supported werden?
+    *   Wie sieht der Lebenszyklus eines Branches aus?
+*   Welche Workflows gibt es?
+    *   Viele verschiedene. Mal mehr, mal weniger Bürokratie/Flexibilität.
+    *   Grundsätzlich: cherry-pick vs. merge
+    *   Was ist git-flow?
+    *   Was ist GitHub Flow?
+*   Wie hoste ich ein Remote Repository?
+    *   git daemon
+    *   Smart HTTP
+    *   GitWeb
+    *   GitLab
+    *   GitBucket
+    *   öffentliches Hosting: https://git.wiki.kernel.org/index.php/GitHosting
+*   Wie clone ich ein Remote Repository?
+*   Was ist das Line Ending Problem?
+*   Wie ist das mit unterschiedlichen OS?
+    *   autocrlf
+*   Was ist ein protected Branch?
+*   Was ist ein force Push?
+
+
+
+## Automatisierung und Integration
+
+*   Was muss man beachten?
+*   Welche Tools gibt es?
+*   Was sind FIX commit messages?
