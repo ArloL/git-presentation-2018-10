@@ -190,6 +190,8 @@
 
 ### Kollaboration
 
+*   So wenig Prozess wie möglich. So viel wie nötig.
+    *   http://widgetsandshit.com/teddziuba/2011/12/process.html
 *   Wie arbeitet man mit mehreren Leuten zusammen?
 *   Welche Fragen muss man beantworten können?
     *   Welcher Workflow wird eingesetzt? Beantwortet vllt. andere Fragen schon
