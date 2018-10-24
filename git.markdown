@@ -72,7 +72,7 @@
     *   Was macht `add`?
     *   Was macht `add --all`?
     *   Was macht `add .`?
-*   Wie commite ich auf der Kommandozeile?
+*   Wie commite ich meine Änderungen?
     *   Was macht `commit`?
     *   Was macht `commit -m`?
     *   Was macht `commit -am`?
