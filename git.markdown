@@ -72,6 +72,14 @@
     *   Was macht `commit -m`?
 *   Wie stage und commite ich eine Änderung?
     *   Was macht `commit -am`?
+*   Wie ignoriere ich bestimmte Dateien?
+    *   `*.log`
+*   Wie ignoriere ich einen ganzen Ordner?
+    *   `/.settings/`
+*   Wie de-ignoriere ich bestimmte Dateien in einem ignorierten Ordner?
+    *   `!/.settings/user.setup`
+*   Wie füge ich trotz .gitignore eine Datei hinzu?
+    *   `git add --force`
 *   Wie erstelle ich einen Branch?
     *   Was macht `branch`?
 *   Wie lösche ich einen Branch?
@@ -118,88 +126,69 @@
 *   Wie finde ich nicht erreichbare Commits?
     *   Was macht `reflog`?
 
-## Einstellungen
+## Prinzipien
 
-*   Was sind gute Defaults?
-    *   user.name=Arlo O'Keeffe
-    *   user.email=mailtoarlo@gmail.com
-    *   core.excludesfile=~/.gitignore_global
-    *   color.ui=true
-    *   push.default=simple
-    *   rebase.autostash=true
-    *   pull.ff=only
-    *   pull.rebase=true
-*   Was ist autostash?
-*   Was ist eine globale .gitignore?
-*   Was sind aliase?
+*   Was ist ein Graph?
+*   Was ist ein gerichteter Graph?
+*   Was ist ein azyklischer Graph?
+*   Was ist Erreichbarkeit?
+*   Was ist ein Baum?
+*   Kann ich ein Git Repository zippen?
+*   Was ist ein Event-Sourced-System?
+*   Was bedeutet es, dass git verteilt ist?
+    *   Im ersten Moment alle Änderungen lokal
+    *   Unter unserer Kontrolle wann remote
+    *   Schnell+Unabhängig (weil kein Netzwerk notwendig)
+*   Was ist der Unterschied zwischen porcelain und plumbing?
 
-## Alltag
+## Philosophie
 
-*   Welche Clients gibt es?
-    *   git (git bash unter Windows)
-    *   SourceTree
-    *   Visual Studio Code
-    *   Eclipse
-    *   Tower
-    *   IntelliJ
-    *   SublimeMerge
-    *   TortoiseGit
-
-## Prinzipien / Konventionen
-
+*   Warum will man eine Versionskontrolle?
+*   Wie oft soll ich commiten?
+*   Wie oft soll ich pushen?
 *   Was ist "commit early, commit often"?
 *   Was ist "published History"?
-*   Warum will man eine Versionskontrolle?
+    *   Never change published history.
 *   Ist git benutzerfreundlich?
 *   Ist git die beste Versionskontrolle?
 *   Ist git besser als svn?
+*   Was ist Social Coding?
+
+## Konventionen, Prozess, Workflow, Kollaboration
+
+*   Repository, Branch, Tag und Log Management
 *   Was sind übliche Konventionen?
     *   Commit Messages
     *   lowercase Branch-Namen
     *   master, develop, feature-* Branches
     *   origin und upstream Remote
-*   Was bedeutet es, dass git verteilt ist?
-    *   Im ersten Moment alle Änderungen lokal
-    *   Unter unserer Kontrolle wann remote
-    *   Schnell+Unabhängig (weil kein Netzwerk notwendig)
-*   Was ist ein Event-Sourced-System?
-*   Was ist der Unterschied zwischen porcelain und plumbing?
-*   Wie oft soll ich commiten?
-*   Wie oft soll ich pushen?
-*   Kann ich ein Git Repository zippen?
 
-## Repository Management
+### Repository Management
 
 *   Was will man alles in einem Repository haben?
     *   diff-baren Quellcode. Also keine "erzeugten" Dateien.
 *   Was gehört in eine .gitignore?
     *   https://www.gitignore.io/
-*   Wie ignoriere ich einen ganzen Ordner?
-    *   `/.settings/`
-*   Wie de-ignoriere ich bestimmte Dateien in einem ignorierten Ordner?
-    *   `!/.settings/user.setup`
-*   Wie füge ich trotz .gitignore eine Datei hinzu?
-    *   `git add --force`
 *   Was gehört in eine gitattributes?
 *   Wie sorge ich dafür, dass in jedem Betriebssystem die Datei CRLF Line
     Endings hat?
 
-## Branch Management
+### Branch Management
 
 *   Wie soll man Branches nennen?
 
-## Tag Management
+### Tag Management
 
 *   Wie soll man Tags nennen?
 
-## History Management
+### Log Management
 
 *   Was ist der Unterschied zwischen Merge und Rebase?
 *   Wie funktioniert ein interactive rebase?
+*   Mit oder ohne ff commit?
 
-## Kollaboration
+### Kollaboration
 
-*   Was ist Social Coding?
 *   Wie arbeitet man mit mehreren Leuten zusammen?
 *   Welche Fragen muss man beantworten können?
     *   Welcher Workflow wird eingesetzt? Beantwortet vllt. andere Fragen schon
@@ -211,7 +200,7 @@
     *   Müssen alte Releases supported werden?
     *   Wie sieht der Lebenszyklus eines Branches aus?
 *   Welche Workflows gibt es?
-    *   Viele verschiedene. Mal mehr, mal weniger Bürokratie/Flexibilität.
+    *   Gibt mehrere. Mal mehr, mal weniger Bürokratie/Flexibilität.
     *   Grundsätzlich: cherry-pick vs. merge
     *   Was ist git-flow?
     *   Was ist GitHub Flow?
@@ -229,7 +218,31 @@
 *   Was ist ein protected Branch?
 *   Was ist ein force Push?
 
+## Alltag
 
+*   Welche Clients gibt es?
+    *   git (git bash unter Windows)
+    *   SourceTree
+    *   Visual Studio Code
+    *   Eclipse
+    *   Tower
+    *   IntelliJ
+    *   SublimeMerge
+    *   TortoiseGit
+    *   uvm.
+*   Was sind gute Einstellungen?
+    *   user.name=Arlo O'Keeffe
+    *   user.email=mailtoarlo@gmail.com
+    *   core.autocrlf=true
+    *   core.excludesfile=~/.gitignore_global
+    *   color.ui=true
+    *   push.default=simple
+    *   rebase.autostash=true
+    *   pull.ff=only
+    *   pull.rebase=true
+*   Was ist autostash?
+*   Was ist eine globale .gitignore?
+*   Was sind aliase?
 
 ## Automatisierung und Integration
 
