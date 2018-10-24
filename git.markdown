@@ -29,6 +29,7 @@
     ](http://www.askaswiss.com/2016/01/12-useful-advanced-git-commands.html)
 *   [How to Write a Git Commit Message
     ](https://chris.beams.io/posts/git-commit/)
+*   [gitworkflows](https://gitirc.eu/gitworkflows.html)
 *   [git-flow](https://nvie.com/posts/a-successful-git-branching-model/)
 *   [GitHub Flow](https://guides.github.com/introduction/flow/)
 
