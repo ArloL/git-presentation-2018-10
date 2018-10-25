@@ -159,14 +159,28 @@
 *   Ist git benutzerfreundlich?
 *   Was ist Social Coding?
 
-## Konventionen, Prozess, Workflow, Kollaboration
+## Kollaboration
 
-*   Repository, Branch, Tag und Log Management
-*   Was sind übliche Konventionen?
+*   Wie arbeitet man mit mehreren Leuten zusammen?
+*   So wenig Prozess wie möglich. So viel wie nötig.
+    *   http://widgetsandshit.com/teddziuba/2011/12/process.html
+*   Welche Fragen muss man beantworten können?
+    *   Welcher Workflow wird eingesetzt? Beantwortet vllt. andere Fragen schon
+    *   Wie sieht der Prozess aus zwischen finalem Commit und Release zum
+        End-User (a.k.a. Deploy)?
+    *   Gibt es Reviews?
+    *   Was sind die Konventionen?
     *   Commit Messages
     *   lowercase Branch-Namen
     *   master, develop, feature-* Branches
     *   origin und upstream Remote
+*   Wie hoste ich ein Remote Repository?
+    *   git daemon
+    *   Smart HTTP
+    *   GitWeb
+    *   GitLab
+    *   GitBucket
+    *   öffentliches Hosting: https://git.wiki.kernel.org/index.php/GitHosting
 
 ### Repository Management
 
@@ -180,50 +194,34 @@
 
 ### Branch Management
 
-*   Wie soll man Branches nennen?
+*   Wie werden Branches benannt?
+*   Wofür werden Branches erstellt?
+*   Wie sieht der Lebenszyklus eines Branches aus?
+*   Wer macht was? Wer arbeitet wo?
+*   Sind Notfall-Patches notwendig?
+*   Müssen alte Releases supported werden?
+*   Was ist ein protected Branch?
 
 ### Tag Management
 
-*   Wie soll man Tags nennen?
+*   Wie werden Tags benannt?
+*   Wofür werden Tags erstellt?
+*   Wer erstellt Tags?
 
-### Log Management
+### Log / History Management
 
+*   Wie sehen Commit Message aus?
 *   Was ist der Unterschied zwischen Merge und Rebase?
 *   Wie funktioniert ein interactive rebase?
 *   Mit oder ohne ff commit?
 
-### Kollaboration
+### Workflows
 
-*   So wenig Prozess wie möglich. So viel wie nötig.
-    *   http://widgetsandshit.com/teddziuba/2011/12/process.html
-*   Wie arbeitet man mit mehreren Leuten zusammen?
-*   Welche Fragen muss man beantworten können?
-    *   Welcher Workflow wird eingesetzt? Beantwortet vllt. andere Fragen schon
-    *   Wer darf ins Haupt-Repository pushen?
-    *   Wie sieht der Prozess aus zwischen finalem Commit und Release zum
-        End-User (a.k.a. Deploy)?
-    *   Sind Notfall-Patches notwendig?
-    *   Wie werden Referenzen benannt?
-    *   Müssen alte Releases supported werden?
-    *   Wie sieht der Lebenszyklus eines Branches aus?
 *   Welche Workflows gibt es?
     *   Gibt mehrere. Mal mehr, mal weniger Bürokratie/Flexibilität.
     *   Grundsätzlich: cherry-pick vs. merge
     *   Was ist git-flow?
     *   Was ist GitHub Flow?
-*   Wie hoste ich ein Remote Repository?
-    *   git daemon
-    *   Smart HTTP
-    *   GitWeb
-    *   GitLab
-    *   GitBucket
-    *   öffentliches Hosting: https://git.wiki.kernel.org/index.php/GitHosting
-*   Wie clone ich ein Remote Repository?
-*   Was ist das Line Ending Problem?
-*   Wie ist das mit unterschiedlichen OS?
-    *   autocrlf
-*   Was ist ein protected Branch?
-*   Was ist ein force Push?
 
 ## Alltag
 
