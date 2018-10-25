@@ -38,6 +38,7 @@
 *   Was ist eine untracked Datei?
 *   Was ist eine Änderung?
 *   Was ist die "Stage"?
+*   Was ist der Index?
 *   Was ist ein Commit?
 *   Was ist ein Hash?
 *   Was ist ein Branch?
