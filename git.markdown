@@ -147,7 +147,8 @@
     *   Unter unserer Kontrolle wann remote
     *   Schnell+Unabhängig (weil kein Netzwerk notwendig)
 *   Kann ich ein Git Repository zippen?
-*   Was ist der Unterschied zwischen porcelain und plumbing?
+*   Was ist porcelain?
+*   Was ist plumbing?
 
 ## Philosophie
 
