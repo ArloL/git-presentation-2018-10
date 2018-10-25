@@ -69,6 +69,8 @@
     *   Was macht `add`?
     *   Was macht `add --all`?
     *   Was macht `add .`?
+*   Wie stage ich nur einen Teil meiner Änderungen?
+    *   Was macht `add --interactive`?
 *   Wie commite ich meine Änderungen?
     *   Was macht `commit`?
     *   Was macht `commit -m`?
