@@ -48,7 +48,6 @@
 *   Was ist HEAD^?
 *   Was ist HEAD^^?
 *   Was ist HEAD~3?
-*   Was ist eine Referenz?
 *   Was ist ein Checkout?
 *   Was ist ein Clone?
 *   Was ist ein Repository?
@@ -141,6 +140,7 @@
 *   Was ist ein azyklischer Graph?
 *   Was ist Erreichbarkeit?
 *   Was ist ein Baum?
+*   Was ist eine Referenz?
 *   Was ist ein Event-Sourced-System?
 *   Was bedeutet es, dass git verteilt ist?
     *   Im ersten Moment alle Änderungen lokal
