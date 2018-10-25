@@ -83,7 +83,7 @@
 *   Wie de-ignoriere ich bestimmte Dateien in einem ignorierten Ordner?
     *   `!/.settings/user.setup`
 *   Wie füge ich trotz .gitignore eine Datei hinzu?
-    *   `git add --force`
+    *   Was macht `add --force`?
 *   Wie erstelle ich einen Branch?
     *   Was macht `branch`?
 *   Wie lösche ich einen Branch?
