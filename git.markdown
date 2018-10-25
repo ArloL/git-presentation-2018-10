@@ -252,6 +252,7 @@
     *   rebase.autostash=true
     *   pull.ff=only
     *   pull.rebase=true
+    *   alias.adog=log --all --decorate --oneline --graph
 *   Was ist autostash?
 *   Was ist eine globale .gitignore?
 *   Was sind aliase?
