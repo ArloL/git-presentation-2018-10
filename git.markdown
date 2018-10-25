@@ -100,6 +100,9 @@
 *   Wie mache ich eine Änderung rückgängig?
     *   Was macht `reset --soft`?
     *   Was macht `reset --hard`?
+*   Wie ändere ich eine Commit Message?
+    *   Was macht `commit --amend`?
+    *   Was macht `rebase`?
 *   Wie hole ich mir ein externes Repository?
     *   Was macht `clone`?
 *   Wie schiebe ich meine Änderungen in ein externes Repository?
@@ -117,9 +120,6 @@
     *   Was macht `stash push --keep-index`?
 *   Wie kann ich einen einzelnen Commit eines anderen Branches übernehmen?
 *   Was macht `cherry-pick`?
-*   Wie ändere ich eine Commit Message?
-    *   Was macht `commit --amend`?
-    *   Was macht `rebase`?
 *   Wie entferne ich alle Änderungen und unnötige Dateien (inkl. ignorierten)?
     *   Was macht `clean`?
 *   Wie finde ich raus wer das commitet hat?
