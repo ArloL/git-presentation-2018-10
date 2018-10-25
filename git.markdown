@@ -140,6 +140,7 @@
 *   Was ist ein azyklischer Graph?
 *   Was ist Erreichbarkeit?
 *   Was ist ein Baum?
+*   Was ist ein Object?
 *   Was ist eine Referenz?
 *   Was ist ein Event-Sourced-System?
 *   Was bedeutet es, dass git verteilt ist?
