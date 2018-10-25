@@ -154,14 +154,9 @@
 ## Philosophie
 
 *   Warum will man eine Versionskontrolle?
-*   Wie oft soll ich commiten?
-*   Wie oft soll ich pushen?
-*   Was ist "commit early, commit often"?
-*   Was ist "published History"?
-    *   Never change published history.
-*   Ist git benutzerfreundlich?
 *   Ist git die beste Versionskontrolle?
 *   Ist git besser als svn?
+*   Ist git benutzerfreundlich?
 *   Was ist Social Coding?
 
 ## Konventionen, Prozess, Workflow, Kollaboration
