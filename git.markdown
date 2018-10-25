@@ -109,8 +109,9 @@
 *   Wie hole ich mir die neusten externen Änderungen in mein Projekt?
     *   Was macht `pull`?
     *   Was macht `pull --rebase`?
-*   Was macht `stash`?
-*   Was macht `stash apply`?
+*   Wie kann ich Änderungen zwischenspeichern?
+    *   Was macht `stash push|save`?
+    *   Was macht `stash pop|apply`?
 *   Was macht `cherry-pick`?
 *   Wie ändere ich eine Commit Message?
     *   Was macht `commit --amend`?
