@@ -139,12 +139,12 @@
 *   Was ist ein azyklischer Graph?
 *   Was ist Erreichbarkeit?
 *   Was ist ein Baum?
-*   Kann ich ein Git Repository zippen?
 *   Was ist ein Event-Sourced-System?
 *   Was bedeutet es, dass git verteilt ist?
     *   Im ersten Moment alle Änderungen lokal
     *   Unter unserer Kontrolle wann remote
     *   Schnell+Unabhängig (weil kein Netzwerk notwendig)
+*   Kann ich ein Git Repository zippen?
 *   Was ist der Unterschied zwischen porcelain und plumbing?
 
 ## Philosophie
