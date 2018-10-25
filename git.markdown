@@ -114,6 +114,7 @@
     *   Was macht `stash pop|apply`?
 *   Wie kann ich Änderungen zwischenspeichern und den Index behalten?
     *   Was macht `stash push --keep-index`?
+*   Wie kann ich einen einzelnen Commit eines anderen Branches übernehmen?
 *   Was macht `cherry-pick`?
 *   Wie ändere ich eine Commit Message?
     *   Was macht `commit --amend`?
