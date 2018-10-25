@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:creation-date>2018-10-24T15:33:00.705000000</meta:creation-date><meta:editing-duration>PT1H52M26S</meta:editing-duration><meta:editing-cycles>137</meta:editing-cycles><meta:generator>LibreOffice/6.1.2.1$Windows_X86_64 LibreOffice_project/65905a128db06ba48db947242809d14d3f9a93fe</meta:generator><dc:title>Midnightblue</dc:title><dc:date>2018-10-25T13:09:22.357000000</dc:date><meta:document-statistic meta:object-count="206"/></office:meta>
+ <office:meta><meta:creation-date>2018-10-24T15:33:00.705000000</meta:creation-date><meta:editing-duration>PT1H54M36S</meta:editing-duration><meta:editing-cycles>138</meta:editing-cycles><meta:generator>LibreOffice/6.1.2.1$Windows_X86_64 LibreOffice_project/65905a128db06ba48db947242809d14d3f9a93fe</meta:generator><dc:title>Midnightblue</dc:title><dc:date>2018-10-25T13:13:55.169000000</dc:date><meta:document-statistic meta:object-count="210"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-459</config:config-item>
@@ -951,11 +951,11 @@
   <style:style style:name="gr10" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.464cm" fo:min-width="2.47cm"/>
   </style:style>
-  <style:style style:name="gr11" style:family="graphic" style:parent-style-name="Objekt_20_ohne_20_Füllung_20_und_20_Linie">
-   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:image-opacity="100%" style:mirror="none"/>
+  <style:style style:name="gr11" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" fo:min-height="7.211cm"/>
   </style:style>
   <style:style style:name="gr12" style:family="graphic" style:parent-style-name="Objekt_20_ohne_20_Füllung_20_und_20_Linie">
-   <style:graphic-properties draw:textarea-vertical-align="middle" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:image-opacity="100%" style:mirror="none"/>
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:image-opacity="100%" style:mirror="none"/>
   </style:style>
   <style:style style:name="gr13" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.6cm" fo:min-width="1.622cm"/>
@@ -1132,19 +1132,22 @@
    <style:text-properties fo:font-size="14pt"/>
   </style:style>
   <style:style style:name="P26" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.499cm" fo:text-indent="0cm" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging"/>
+   <loext:graphic-properties draw:fill="none"/>
   </style:style>
   <style:style style:name="P27" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0.6cm" fo:margin-right="0cm" fo:text-indent="-0.6cm"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.499cm" fo:text-indent="0cm" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging"/>
   </style:style>
   <style:style style:name="P28" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0.6cm" fo:margin-right="0cm" fo:text-indent="-0.6cm"/>
-   <style:text-properties fo:font-size="20pt"/>
   </style:style>
   <style:style style:name="P29" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0.6cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.499cm" fo:text-indent="-0.6cm" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging"/>
+   <style:paragraph-properties fo:margin-left="0.6cm" fo:margin-right="0cm" fo:text-indent="-0.6cm"/>
+   <style:text-properties fo:font-size="20pt"/>
   </style:style>
   <style:style style:name="P30" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0.6cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.499cm" fo:text-indent="-0.6cm" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph">
    <style:text-properties fo:font-size="32pt" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -2875,11 +2878,37 @@
       <text:p>Aktionen</text:p>
      </draw:text-box>
     </draw:frame>
+    <draw:frame draw:style-name="gr11" draw:text-style-name="P26" draw:layer="layout" svg:width="18.938cm" svg:height="8.261cm" svg:x="4.531cm" svg:y="6.78cm">
+     <draw:text-box>
+      <text:p>&lt;&lt;&lt;&lt;&lt;&lt;&lt;</text:p>
+      <text:p>Mine. Changes made on the branch that is being merged into. In<text:line-break/>most cases, this is the branch that I have currently checked out (i.e. HEAD).</text:p>
+      <text:p>|||||||</text:p>
+      <text:p>The common ancestor version.</text:p>
+      <text:p>=======</text:p>
+      <text:p>Theirs. Changes made on the branch that is being merged in. This is often a feature/topic branch.</text:p>
+      <text:p>&gt;&gt;&gt;&gt;&gt;&gt;&gt;</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp3">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="12" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page13" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p>Aktionen</text:p>
+     </draw:text-box>
+    </draw:frame>
     <draw:frame presentation:style-name="pr21" draw:layer="layout" svg:width="26cm" svg:height="14cm" svg:x="1cm" svg:y="5.5cm" presentation:class="outline">
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-item>
-        <text:p text:style-name="P26">Wie mache ich eine Änderung rückgängig?</text:p>
+        <text:p text:style-name="P27">Wie mache ich eine Änderung rückgängig?</text:p>
        </text:list-item>
        <text:list-item>
         <text:p>Wie ändere ich eine Commit Message?</text:p>
@@ -2888,7 +2917,7 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="12" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="13" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes">
       <draw:text-box>
        <text:p>* <text:s text:c="2"/>Wie mache ich eine Änderung rückgängig?</text:p>
@@ -2901,7 +2930,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page13" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page14" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
@@ -2927,7 +2956,7 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="13" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="14" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes">
       <draw:text-box>
        <text:p>* <text:s text:c="2"/>Wie hole ich mir ein externes Repository?</text:p>
@@ -2944,7 +2973,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page14" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page15" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
@@ -2970,7 +2999,7 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="14" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="15" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes">
       <draw:text-box>
        <text:p>* <text:s text:c="2"/>Wie kann ich Änderungen zwischenspeichern?</text:p>
@@ -2986,7 +3015,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page15" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page16" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
@@ -3015,7 +3044,7 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="15" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="16" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes">
       <draw:text-box>
        <text:p>* <text:s text:c="2"/>Wie finde ich raus wer das commitet hat?</text:p>
@@ -3032,7 +3061,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page16" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page17" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title">
      <draw:text-box>
@@ -3067,18 +3096,18 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="16" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="17" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:text-style-name="P23" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:user-transformed="true">
       <draw:text-box>
        <text:list text:style-name="L1">
         <text:list-item>
-         <text:p text:style-name="P27"><text:span text:style-name="T6">Object</text:span></text:p>
+         <text:p text:style-name="P28"><text:span text:style-name="T6">Object</text:span></text:p>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P27"><text:span text:style-name="T6">Blob</text:span></text:p>
+           <text:p text:style-name="P28"><text:span text:style-name="T6">Blob</text:span></text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P27"><text:span text:style-name="T6">Tree</text:span></text:p>
+           <text:p text:style-name="P28"><text:span text:style-name="T6">Tree</text:span></text:p>
           </text:list-item>
           <text:list-item>
            <text:p><text:span text:style-name="T6">Commit</text:span></text:p>
@@ -3104,8 +3133,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page17" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL3T19">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page18" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL3T19">
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title">
      <draw:text-box>
       <text:p>Prinzipien</text:p>
@@ -3919,14 +3947,13 @@
      </draw:image>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="17" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="18" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:text-style-name="P23" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page18" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page19" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title">
      <draw:text-box>
       <text:p>Prinzipien</text:p>
@@ -3954,7 +3981,7 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="18" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="19" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:text-style-name="P23" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes">
       <draw:text-box>
        <text:list text:style-name="L1">
@@ -3982,7 +4009,7 @@
          <text:p><text:span text:style-name="T6">Zip: Ja</text:span></text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P27"><text:span text:style-name="T6">Plumbing?</text:span></text:p>
+         <text:p text:style-name="P28"><text:span text:style-name="T6">Plumbing?</text:span></text:p>
          <text:list>
           <text:list-item>
            <text:p><text:span text:style-name="T6">Die Toolkit Kommandos (z.B. reflog)</text:span></text:p>
@@ -4002,8 +4029,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page19" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page20" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title">
      <draw:text-box>
       <text:p>Philosophie</text:p>
@@ -4031,14 +4057,13 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="19" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="20" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page20" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page21" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title">
      <draw:text-box>
       <text:p>Kollaboration</text:p>
@@ -4054,7 +4079,7 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="20" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="21" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes">
       <draw:text-box>
        <text:p>So wenig Prozess / Workflow / Konventionen wie möglich.</text:p>
@@ -4062,9 +4087,8 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page21" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL3T19">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame draw:style-name="gr11" draw:text-style-name="P10" draw:layer="layout" svg:width="14cm" svg:height="14cm" svg:x="7cm" svg:y="5.5cm" presentation:class="graphic">
+   <draw:page draw:name="page22" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL3T19">
+    <draw:frame draw:style-name="gr12" draw:text-style-name="P10" draw:layer="layout" svg:width="14cm" svg:height="14cm" svg:x="7cm" svg:y="5.5cm" presentation:class="graphic">
      <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABIEAAASBCAYAAACjNo7BAAAAGXRFWHRTb2Z0d2FyZQBBZG9i
        ZSBJbWFnZVJlYWR5ccllPAABSaNJREFUeNrs3X9sXOd95/uHP0WFVkU5DiWn2hXZdCUHUipZ
@@ -5641,19 +5665,18 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="21" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr22" draw:text-style-name="P28" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:user-transformed="true">
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="22" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr22" draw:text-style-name="P29" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:user-transformed="true">
       <draw:text-box>
-       <text:p text:style-name="P27"><text:span text:style-name="T6">Vertrauen in seine Kollegen</text:span></text:p>
-       <text:p text:style-name="P27"><text:span text:style-name="T6">Individuals and interactions over processes and tools</text:span></text:p>
-       <text:p text:style-name="P27"><text:span text:style-name="T6">Working software over comprehensive documentation</text:span></text:p>
+       <text:p text:style-name="P28"><text:span text:style-name="T6">Vertrauen in seine Kollegen</text:span></text:p>
+       <text:p text:style-name="P28"><text:span text:style-name="T6">Individuals and interactions over processes and tools</text:span></text:p>
+       <text:p text:style-name="P28"><text:span text:style-name="T6">Working software over comprehensive documentation</text:span></text:p>
        <text:p><text:span text:style-name="T6">Responding to change over following a plan</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page22" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page23" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title">
      <draw:text-box>
       <text:p>Kollaboration</text:p>
@@ -5663,10 +5686,10 @@
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-item>
-        <text:p text:style-name="P26">Welcher Workflow wird eingesetzt?</text:p>
+        <text:p text:style-name="P27">Welcher Workflow wird eingesetzt?</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P26">Was sind sonstige Konventionen?</text:p>
+        <text:p text:style-name="P27">Was sind sonstige Konventionen?</text:p>
        </text:list-item>
        <text:list-item>
         <text:p>Wie sieht der Prozess zwischen finalem Commit und Release zum End-User aus (aka Deploy)?</text:p>
@@ -5681,7 +5704,7 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="22" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="23" presentation:class="page"/>
      <draw:frame presentation:style-name="pr23" draw:layer="layout" svg:width="16.799cm" svg:height="14.225cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:user-transformed="true">
       <draw:text-box>
        <text:p>* <text:s text:c="2"/>So wenig Prozess wie möglich. So viel wie nötig.</text:p>
@@ -5702,8 +5725,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page23" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page24" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p>Repository Management</text:p>
@@ -5713,13 +5735,13 @@
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-item>
-        <text:p text:style-name="P29">Was will man alles in einem Repository haben?</text:p>
+        <text:p text:style-name="P30">Was will man alles in einem Repository haben?</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P29">Was gehört in eine .gitignore?</text:p>
+        <text:p text:style-name="P30">Was gehört in eine .gitignore?</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P29">Was gehört in eine gitattributes?</text:p>
+        <text:p text:style-name="P30">Was gehört in eine gitattributes?</text:p>
        </text:list-item>
        <text:list-item>
         <text:p>Wie sorge ich dafür, dass in jedem Betriebssystem die richtigen Line Endings sind?</text:p>
@@ -5728,14 +5750,13 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="23" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="24" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page24" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page25" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p>Branch Management</text:p>
@@ -5769,14 +5790,13 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="24" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="25" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page25" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page26" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title">
      <draw:text-box>
       <text:p>Tag Management</text:p>
@@ -5798,14 +5818,13 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="25" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="26" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page26" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page27" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title">
      <draw:text-box>
       <text:p>Log / History Management</text:p>
@@ -5833,7 +5852,7 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="26" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="27" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:user-transformed="true">
       <draw:text-box>
        <text:list text:style-name="L1">
@@ -5867,14 +5886,13 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page27" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page28" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title">
      <draw:text-box>
       <text:p>Kollaboration – Zentralisierter Workflow</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr12" draw:text-style-name="P8" draw:layer="layout" svg:width="21.166cm" svg:height="9.127cm" svg:x="3.417cm" svg:y="7.5cm">
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P10" draw:layer="layout" svg:width="21.166cm" svg:height="9.127cm" svg:x="3.417cm" svg:y="7.5cm">
      <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAyAAAAFZCAMAAABXHLt6AAAABGdBTUEAALGPC/xhBQAAAAFz
        UkdCAK7OHOkAAAMAUExURUxpcbKIX/VLKPVLJc2fAMyeANKlAPRMJ+xIJPRNJ46JgY+IgIyF
@@ -6150,20 +6168,19 @@
      </draw:image>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="27" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="28" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:text-style-name="P23" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page28" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page29" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title">
      <draw:text-box>
       <text:p>Kollaboration – Integration Manager</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr12" draw:text-style-name="P8" draw:layer="layout" svg:width="21.166cm" svg:height="7.063cm" svg:x="3.417cm" svg:y="7.5cm">
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P10" draw:layer="layout" svg:width="21.166cm" svg:height="7.063cm" svg:x="3.417cm" svg:y="7.5cm">
      <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAyAAAAELCAMAAAAWWhKGAAAABGdBTUEAALGPC/xhBQAAAAFz
        UkdCAK7OHOkAAAMAUExURUxpcQCRmnuWlMmhAO/v5wCQme3t54+JgQCTk/Dw4o6Lgc2fAPNN
@@ -6544,21 +6561,19 @@
      </draw:image>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="28" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="29" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page29" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page30" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title">
      <draw:text-box>
       <text:p>Kollaboration - Benevolent Dictator</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr12" draw:text-style-name="P8" draw:layer="layout" svg:width="21.166cm" svg:height="10.9cm" svg:x="3.417cm" svg:y="6.5cm">
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P10" draw:layer="layout" svg:width="21.166cm" svg:height="10.9cm" svg:x="3.417cm" svg:y="6.5cm">
      <draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAyAAAAGcCAMAAAAWOTR9AAAABGdBTUEAALGPC/xhBQAAAAFz
        UkdCAK7OHOkAAAMAUExURUxpce7u6JCJgWiJhaCGdACRmwCQmY+Jge/v3+7u5pCIgo6Jga6p
@@ -6975,21 +6990,19 @@
      </draw:image>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="29" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="30" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page30" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page31" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title">
      <draw:text-box>
       <text:p>Kollaboration - Gerrit</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr12" draw:text-style-name="P8" draw:layer="layout" svg:width="14.313cm" svg:height="10.953cm" svg:x="6.844cm" svg:y="5.5cm">
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P10" draw:layer="layout" svg:width="14.313cm" svg:height="10.953cm" svg:x="6.844cm" svg:y="5.5cm">
      <draw:image loext:mime-type="image/svg+xml">
       <office:binary-data>PHN2ZyB3aWR0aD0iNTQxcHgiIGhlaWdodD0iNDE0cHgiIHZlcnNpb249IjEuMSIgeG1sbnM9
        Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53
@@ -7731,8 +7744,7 @@
      </draw:image>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="30" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="31" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes">
       <draw:text-box>
        <text:p><text:span text:style-name="T7">Jede</text:span> Änderung wird gereviewed und muss von einer gewissen Anzahl Leuten freigegeben werden</text:p>
@@ -7740,8 +7752,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page31" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL3T19">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page32" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL3T19">
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p>Kollaboration - GitHub Flow</text:p>
@@ -8019,14 +8030,13 @@
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="31" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="32" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:text-style-name="P23" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2cm" svg:y="14cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page32" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL3T19">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page33" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL3T19">
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p>Kollaboration - Git Flow</text:p>
@@ -10353,14 +10363,13 @@
      </draw:image>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="32" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="33" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page33" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page34" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title">
      <draw:text-box>
       <text:p>Alltag</text:p>
@@ -10391,14 +10400,13 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="33" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="34" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page34" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page35" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title">
      <draw:text-box>
       <text:p>Einstellungen</text:p>
@@ -10441,14 +10449,13 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="34" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="35" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page35" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page36" draw:style-name="dp5" draw:master-page-name="Midnightblue" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame presentation:style-name="pr20" draw:layer="layout" svg:width="26cm" svg:height="2.663cm" svg:x="1cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p>Automatisierung und Integration</text:p>
@@ -10481,21 +10488,20 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="35" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="36" presentation:class="page"/>
      <draw:frame presentation:style-name="pr22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page36" draw:style-name="dp5" draw:master-page-name="Midnightblue2" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr24" draw:text-style-name="P30" draw:layer="layout" svg:width="13cm" svg:height="6cm" svg:x="7.5cm" svg:y="7.5cm" presentation:class="title">
+   <draw:page draw:name="page37" draw:style-name="dp5" draw:master-page-name="Midnightblue2" presentation:presentation-page-layout-name="AL2T1">
+    <draw:frame presentation:style-name="pr24" draw:text-style-name="P31" draw:layer="layout" svg:width="13cm" svg:height="6cm" svg:x="7.5cm" svg:y="7.5cm" presentation:class="title">
      <draw:text-box>
       <text:p><text:span text:style-name="T8">mailtoarlo@gmail.com</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="36" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.136cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="37" presentation:class="page"/>
      <draw:frame presentation:style-name="pr25" draw:text-style-name="P22" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
