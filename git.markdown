@@ -23,6 +23,8 @@
 
 ### Weiterführende Themen
 
+*   [The Git Parable
+    ](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 *   [Think Like (a) Git](http://think-like-a-git.net/)
 *   [Git Best Practices](http://sethrobertson.github.io/GitBestPractices/)
 *   [12 advanced Git commands I wish my co-workers would know
