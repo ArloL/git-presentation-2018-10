@@ -121,7 +121,7 @@
 *   Wie kann ich Änderungen zwischenspeichern und den Index behalten?
     *   Was macht `stash push --keep-index`?
 *   Wie kann ich einen einzelnen Commit eines anderen Branches übernehmen?
-*   Was macht `cherry-pick`?
+    *   Was macht `cherry-pick`?
 *   Wie entferne ich alle Änderungen und unnötige Dateien (inkl. ignorierten)?
     *   Was macht `clean`?
 *   Wie finde ich raus wer das commitet hat?
